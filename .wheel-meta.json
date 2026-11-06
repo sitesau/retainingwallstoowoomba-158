@@ -1,0 +1,22 @@
+{
+  "wheel_id": 789,
+  "structure": "umbrella",
+  "slug": "retainingwallstoowoomba-158",
+  "project": "retaining-wall-builders-toowoomba-what-to-expect-9bb4785a92cf0b",
+  "parent_t1_ref": "retainingwallstoowoomba-014",
+  "node_role": "buffer",
+  "money_target": "retainingwallstoowoomba.com.au",
+  "primary_kw": "retaining wall builders toowoomba what to expect",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-builders-toowoomba-what-to-expect-9bb4785a92cf0b/",
+  "tier": "T2",
+  "writeback_nonce": "a3324cfaddae5571",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-builders-toowoomba/",
+      "anchor": "the retaining wall builders toowoomba overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
